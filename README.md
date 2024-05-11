@@ -4,4 +4,4 @@
 
 ## Tecnologias que eu uso no meu Dia:
 
-[![My Skills](https://skillicons.dev/icons?i=discord,vscode,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=replit,vscode,py,&perline=10)](https://skillicons.dev)
