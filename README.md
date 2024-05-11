@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=replit,vscode,py,&perline=10)](https://skillicons.dev)
 
-## Tecnologias em aprendizado:
+## Linguagens em aprendizado:
 
 <div style="display: inline_block"><br/> 
   <img aling="center" alt"PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
