@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugeni1&show_icons=true&theme=midnight-purple)
 
-## Tecnologias que eu uso no meu Dia:
+## Tecnologias que eu uso no meu Dia-a-Diaa:
 
 [![My Skills](https://skillicons.dev/icons?i=replit,vscode,py,&perline=10)](https://skillicons.dev)
 
