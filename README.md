@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=175&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=160&section=header" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Cauã+José;I'm+16+Years+Old;I'm+From+Brazil;I+am+currently+Attending+High+School;Be+Welcome+To...;My+Profile!)](https://git.io/typing-svg)
 
@@ -44,3 +44,7 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&heigth=150&section=footer"/>
