@@ -13,7 +13,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Eugeni1&theme=midnight-purple&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
 
-### Enter in contact:
+<div align="center"
+
+###
+###   Contacts
+ 
+</div>
 
 <div align="center"
   
