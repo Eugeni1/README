@@ -1,4 +1,4 @@
-### 👋Olá! Eu sou o Cauã José✌️
+### 👋Olá! Eu sou Cauã José!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugeni1&show_icons=true&theme=midnight-purple)
 
