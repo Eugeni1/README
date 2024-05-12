@@ -13,3 +13,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Eugeni1&theme=midnight-purple&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
 
+<div align="center"
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eugeni1.ti?igsh=NWRvYTl5NnVhcjA0) 
+
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100069911582800&mibextid=ZbWKwL) 
+
+</div>
